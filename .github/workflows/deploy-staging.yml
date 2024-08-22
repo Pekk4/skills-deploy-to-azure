@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: Pekk4-azure-ttt
-  AZURE_WEBAPP_NAME: Pekk4-ttt-app
+  DOCKER_IMAGE_NAME: pekk4-azure-ttt
+  AZURE_WEBAPP_NAME: pekk4-ttt-app
   ###############################################
 
 jobs:
